@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="345.48012820512815" y="2231.0">SignUp</node>
+    <node x="0.0" y="850.0">ConfirmBox</node>
+    <node x="213.00000000000006" y="275.5">AlertBox</node>
+    <node x="340.8666666666667" y="1212.0">MainMenu</node>
+    <node x="249.00000000000006" y="652.0">AddEntry</node>
+    <node x="601.8666666666667" y="1422.0">PasswordReset</node>
+    <node x="380.98012820512815" y="1733.0">Main</node>
+    <node x="460.37500000000006" y="0.0">SearchEntry</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="AddEntry" target="SearchEntry">
+      <point x="68.0" y="-235.0" />
+      <point x="453.00000000000006" y="632.0" />
+      <point x="477.62500000000006" y="632.0" />
+      <point x="-86.25" y="301.0" />
+    </edge>
+    <edge source="MainMenu" target="ConfirmBox">
+      <point x="-90.37499999999989" y="-235.5" />
+      <point x="370.9916666666668" y="1182.0" />
+      <point x="171.75" y="1182.0" />
+      <point x="57.25" y="37.0" />
+    </edge>
+    <edge source="Main" target="PasswordReset">
+      <point x="71.25" y="-224.0" />
+      <point x="594.7301282051282" y="1703.0" />
+      <point x="648.3666666666667" y="1703.0" />
+      <point x="-46.5" y="25.5" />
+    </edge>
+    <edge source="MainMenu" target="AddEntry">
+      <point x="-50.20833333333326" y="-235.5" />
+      <point x="411.1583333333334" y="1162.0" />
+      <point x="330.6000000000001" y="1162.0" />
+      <point x="-54.39999999999998" y="235.0" />
+    </edge>
+    <edge source="SignUp" target="Main">
+      <point x="-133.5" y="-36.5" />
+      <point x="389.98012820512815" y="2206.0" />
+      <point x="416.60512820512815" y="2206.0" />
+      <point x="-106.875" y="224.0" />
+    </edge>
+    <edge source="AddEntry" target="AlertBox">
+      <point x="-68.0" y="-235.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="SearchEntry" target="MainMenu">
+      <point x="51.75" y="301.0" />
+      <point x="615.625" y="622.0" />
+      <point x="588.7551282051282" y="622.0" />
+      <point x="588.7551282051282" y="1182.0" />
+      <point x="551.7416666666667" y="1182.0" />
+      <point x="90.375" y="-235.5" />
+    </edge>
+    <edge source="AddEntry" target="MainMenu">
+      <point x="108.79999999999995" y="235.0" />
+      <point x="493.8" y="1142.0" />
+      <point x="471.4083333333334" y="1142.0" />
+      <point x="10.041666666666742" y="-235.5" />
+    </edge>
+    <edge source="MainMenu" target="Main">
+      <point x="90.375" y="235.5" />
+      <point x="551.7416666666667" y="1713.0" />
+      <point x="547.2301282051282" y="1713.0" />
+      <point x="23.75" y="-224.0" />
+    </edge>
+    <edge source="Main" target="SignUp">
+      <point x="35.625" y="224.0" />
+      <point x="559.1051282051282" y="2206.0" />
+      <point x="567.9801282051282" y="2206.0" />
+      <point x="44.5" y="-36.5" />
+    </edge>
+    <edge source="PasswordReset" target="Main">
+      <point x="46.5" y="25.5" />
+      <point x="741.3666666666667" y="1713.0" />
+      <point x="642.2301282051282" y="1713.0" />
+      <point x="118.75" y="-224.0" />
+    </edge>
+    <edge source="MainMenu" target="SearchEntry">
+      <point x="110.45833333333337" y="-235.5" />
+      <point x="571.825" y="1192.0" />
+      <point x="599.7551282051282" y="1192.0" />
+      <point x="599.7551282051282" y="632.0" />
+      <point x="650.125" y="632.0" />
+      <point x="86.25000000000001" y="301.0" />
+    </edge>
+    <edge source="Main" target="MainMenu">
+      <point x="-118.75" y="-224.0" />
+      <point x="404.73012820512815" y="1713.0" />
+      <point x="370.9916666666667" y="1713.0" />
+      <point x="-90.375" y="235.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-47.440476190476375" y="447.1428571428571" />
+  <SelectedNodes>
+    <node>Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
