@@ -1,3 +1,4 @@
 **Project Description**
+
 My Address Book is a desktop application created for the purpose of keeping track of user contact list and details about them. A user can add, delete and update contact. It has multiple user option consisting of different data set for different user. It also has the real time search option and instant login logout option. Finally user can sign up or reset forgotten password by using pin code entered at sign up time.
 My Address Book is a desktop application created for the purpose of keeping track of user contact list and details about them. A user can add, delete and update contact. It has multiple user option consisting of different data set for different user. It also has the real time search option and instant login logout option. Finally user can sign up or reset forgotten password by using pin code entered at sign up time.
